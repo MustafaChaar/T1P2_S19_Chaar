@@ -1,0 +1,2 @@
+alias push='git push'
+alias brc='source ~/.bashrc'
