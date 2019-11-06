@@ -1,0 +1,31 @@
+
+commit 879f467acb6855b7dd9dde574007ce2f0de3e511
+Author: mustafachaar <mustafa_abdulkareem>
+Date:   Wed Nov 6 20:54:53 2019 +0200
+
+     add rmscript
+
+commit caa8cf1414bef9eb23d68e6ac6e05af379db3815
+Author: MustafaChaar <55692657+MustafaChaar@users.noreply.github.com>
+Date:   Wed Nov 6 20:41:01 2019 +0200
+
+    Update .gitignore
+
+commit 25b9aeac7b310f26bdebcc04a7bd1c599fe3fc38
+Author: mustafachaar <mustafa_abdulkareem>
+Date:   Wed Nov 6 20:18:57 2019 +0200
+
+    git ignore
+
+commit caa3aec7e4c265b035d11bad7fada023f4fe1600
+Author: mustafachaar <mustafa_abdulkareem>
+Date:   Wed Nov 6 20:15:58 2019 +0200
+
+     created luckfunction script
+
+commit 5fb9858b6d293458d25cad886bfa751e208464e2
+Author: mustafachaar <mustafa_abdulkareem>
+Date:   Wed Nov 6 20:01:15 2019 +0200
+
+    new rep
+
