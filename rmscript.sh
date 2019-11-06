@@ -1,0 +1,1 @@
+rm mustafa* !(mustafa.tex)
